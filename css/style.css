@@ -1,0 +1,61 @@
+/*General*/
+
+main{font-family: Arial, Helvetica, sans-serif; padding-bottom: 10px;}
+div{font-size: 16px;}
+ul{list-style: none;}
+form{border: 2px solid black; padding: 2% 2%; margin-right: 51.5%; margin-left: 2%;}
+.otros_button a{text-decoration: none;font-weight: bold;color: black;}
+.textogral{margin-left: 10px; margin-top: 10px;}
+.textofinal{margin-left: 10px; margin-top: 10px;margin-bottom: 10px;}
+.logo_wpp{position: fixed;bottom: 60px; right: 20px; width:50px}
+
+
+/*Header*/
+.cabeza_page{background-color: rgb(250, 152, 132); width: 100%; height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    } 
+.menu_nav{display: flex; align-items: center;}
+.lista_nav{display: flex; flex-direction: row; gap: 175px;}
+.lista_nav a{color: black;text-decoration: none;font-weight: bold;}
+
+/*Footer*/
+footer{display: flex;}
+.pie_page{background-color: lightgray; font-weight: bold; font-size: 10px; width: 100%; height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column; align-items: center; width: 100%;
+}
+.pie_page li{text-align: center; color: black;}
+.pie_page a{text-decoration: none; color: black;}
+
+/*Para index.html*/
+.logo_ppal{display: block; margin: 0 auto;}
+.titulo_video{margin-top: 10px;}
+.elemto_video{display: block; margin: 0 auto; padding-top: 10px;}
+
+/*Para prodtos.html*/
+.botones{margin-top: 5px; margin-bottom: 5px; margin-left: 5px;}
+.espacioabajoprod{margin-bottom:250px;}
+.espacioabajoenvio{margin-bottom:270px;}
+
+/*Para AAS.html*/
+.seccion_aas img{display: block; margin: 0 auto;margin-top: 10px;}
+
+/*Para contacto.html*/
+.margenizq{margin-left: 2%;}
+
+/*Para horarios.html*/
+.tablahorarios{margin-left:33%;margin-top: 35px;margin-bottom: 34px;text-align: center;}
+.tablahorarios p{margin-left: 50px;margin-right: 50px;}
+.encabezado_horarios{font-weight: bold;font-size: 2em;}
+
+.lunes{color: cyan;}
+.martes{color: fuchsia;}
+.miercoles{color: greenyellow;}
+.jueves{color: red;}
+.viernes{color: purple;}
+.sabado{color: orange;}
+
+.dia{font-weight: bold;}
+.hora{font-style: italic;}
+

@@ -1,0 +1,9 @@
+main{background-image: url('../imgindex/fondo1.avif');background-size: contain;}
+td{text-align: center;padding-left: 10px;padding-right: 10px;}
+aside{float: right;background-color: white;text-align: center;}
+aside div{margin-top: 58px;margin-bottom: 58px;}
+aside h4{margin-top: 37px;margin-bottom: 40px;}
+aside a{text-decoration: none;color: black; margin-right: 10px; margin-left: 10px;}
+.tituloqca{text-align: center; padding-top: 10px;}
+.textoindex{text-align: center;}
+.tablaequipo{margin-left: 200px;}
